@@ -3,6 +3,7 @@
 ###
 
 <p align="center">some bad python dev :p</p>
+<p align="center">dont have any ideas what to code if you want to help me add me on discord!</p>
 
 ###
 
