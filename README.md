@@ -30,7 +30,7 @@
 <div align="center">
   or just add me!
   <br>
-    chomi#2228
+    chomi#6969
 </div>
 
 ###
