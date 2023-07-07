@@ -30,7 +30,7 @@
 <div align="center">
   or just add me!
   <br>
-    chomik#3605
+    puszystychomik
 </div>
 
 ###
