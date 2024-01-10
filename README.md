@@ -2,8 +2,7 @@
 
 ###
 
-<p align="center">some bad python dev :p</p>
-<p align="center">dont have any ideas what to code if you want to help me add me on discord!</p>
+<p align="center">some bad python dev :p. expermenting with c# and EXILED (SCPL:SL) will prob fail. As always...</p>
 
 ###
 
@@ -25,6 +24,11 @@
 <div align="center">
   <a href="https://discord.gg/sKyQNxMa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+<div align="center">
+  <a href="e-z.bio/chomik" target="_blank">
+    <img src="https://r2.e-z.host/eztransparent.png" width="52" height="40" alt="e-z.host/e-z.bio logo"  />
   </a>
 </div>
 <div align="center">
