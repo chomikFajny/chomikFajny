@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">some bad python dev :p. expermenting with c# and EXILED (SCPL:SL) will prob fail. As always...</p>
+<p align="center">I do some stuff if im not lazy (im lazy).</p>
 
 ###
 
